@@ -12,4 +12,10 @@
  *
  *= require_tree .
  *= require_self
+ *= require_style
+ *= require_animate
+ *= require_blueimp-gallery.min
+ *= require_bootstrap
+ *= require_bootstrap.min
+ *= require_set
  */
